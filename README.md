@@ -1,6 +1,5 @@
 # 🌱 SDGs Interactive Clustering System (Versi Full Safe)
 
-```mermaid
 graph TD
   A[👩‍💻 User pilih SDG di Web (Next.js)] --> B[📄 Fetch tabel dari Supabase]
   B --> C[✏️ Edit indikator di tabel]
